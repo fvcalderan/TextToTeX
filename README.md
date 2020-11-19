@@ -37,7 +37,7 @@ Optional flags:
     -v: verbose output.
 
 Example:
-    ./TextToTex.sh -o \"equation.png\" -t \"\\\\Delta = b^2 -4ac\"
+    ./TextToTex.sh -o "equation.png" -t "\\Delta = b^2 -4ac"
 ```
 
 ### License
